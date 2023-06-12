@@ -1,7 +1,6 @@
 {
-    "name": "Hypertabs",
-    "description": "Unofficial Hypertabs easy deployment version with TompHTTP bare server included.",
-    "repository": "https://github.com/amethystnetwork-dev/Hypertabs",
-    "logo": "https://github.com/amethystnetwork-dev/Hypertabs/blob/main/static/icon.png?raw=true",
-    "keywords": ["amethystnetwork-dev"]
+    "name": "yt-viewer",
+    "description": "View youtube videos from a their url off-site using the youtube google api",
+    "repository": "https://github.com/bmboi/Hypertabs",
+    "keywords": ["yt-unblcocked"]
 }
